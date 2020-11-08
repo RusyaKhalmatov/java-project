@@ -1,0 +1,8 @@
+2 5000 Happy Birthtday your friends presented you:
+-2 -2000 Hey, your soon crushed your car you have to pay:
+5 20000 Relatives left money for you:
+-7 -10000 Amazing your house has been burned, You have to buy anything for living till end of the month:
+-10 -5000 Your girlfried had stolen money in the sock:
++5 -1000 Accidently you killed neighbor's dog in a car accident:
+
+
